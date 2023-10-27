@@ -15,8 +15,8 @@ flutter pub get
 flutter run
 ```
 
-## Finall Look Will be: 
- (https://github.com/sara4se/EcommercePage/assets/65389958/c5bfdb36-5450-406d-b5a0-f905340f4c4e)
+## Finall Look Will be:  
+![Sample Image]([https://example.com/sample-image.jpg](https://www.fluttercampus.com/img/uploads/web/2021/05/8d3bba7425e7c98c50f52ca1b52d3735.webp)https://www.fluttercampus.com/img/uploads/web/2021/05/8d3bba7425e7c98c50f52ca1b52d3735.webp)
 
 ## Features
 
