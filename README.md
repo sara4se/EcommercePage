@@ -1,16 +1,28 @@
 # ecommercepage
 
-A new Flutter project.
+"Ecommercepage" is a simple and user-friendly Flutter app that allows users to browse a selection of items on one page and add them to their shopping bag. Experience hassle-free shopping with an intuitive interface and straightforward navigation.
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+## Installation
+```sh
+git clone https://github.com/sara4se/ecommercepage.git
+cd ecommercepage
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Finall Look Will be: 
+ t
+https://www.fluttercampus.com/img/uploads/web/2021/05/8d3bba7425e7c98c50f52ca1b52d3735.webp![image](https://github.com/sara4se/EcommercePage/assets/65389958/c5bfdb36-5450-406d-b5a0-f905340f4c4e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Home Page
+- Shopping Bag 
+
+ ## State 
+ In Progress 
