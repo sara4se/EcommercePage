@@ -16,8 +16,8 @@ flutter run
 ```
 
 ## Finall Look Will be:  
-![Sample Image](https://www.fluttercampus.com/img/uploads/web/2021/05/8d3bba7425e7c98c50f52ca1b52d3735.webp
-)
+![Sample Image](https://www.fluttercampus.com/img/uploads/web/2021/05/8d3bba7425e7c98c50f52ca1b52d3735.webp)
+
 
 ## Features
 
